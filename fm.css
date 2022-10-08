@@ -1,0 +1,122 @@
+.offers {
+    font-style: italic;
+    color: lightblue;
+    font-weight: bold;
+}
+
+.wcu-card-container {
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.wcu-card-title {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.wcu-card-paragraph {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+    color: #5a7184;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.wcu-paragraph {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+    color: #5a7184;
+}
+
+.food-munch-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    font-family: "Roboto";
+    font-size: 43px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.banner-description {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.custom-button {
+    background-color: #f5cb42;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    margin-right: 30px;
+    height: 35px;
+    width: 120px;
+    border-width: 0px;
+}
+
+.custom-outline-button {
+    color: #f5cb42;
+    height: 35px;
+    width: 120px;
+    border-radius: 8px;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+
+}
+
+.food-munch-logo {
+    height: 60px;
+    width: 130px;
+}
+
+#navItem1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323f4b;
+}
+
+#navItem2 {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323f4b;
+}
+
+#navItem3 {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323f4b;
+}
+
+#navItem4 {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color: #323f4b;
+}
